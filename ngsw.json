@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1564203530331,
+  "timestamp": 1564237830520,
   "index": "/pwatest/index.html",
   "assetGroups": [
     {
@@ -10,13 +10,13 @@
       "urls": [
         "/pwatest/favicon.ico",
         "/pwatest/index.html",
-        "/pwatest/main-es2015.fa4b5abdbcd1059cbb8c.js",
-        "/pwatest/main-es5.761c996eaf2b84260cbf.js",
+        "/pwatest/main-es2015.56cc94471c3382b1ecec.js",
+        "/pwatest/main-es5.d8a0fc8374125eb2a65d.js",
         "/pwatest/polyfills-es2015.27661dfa98f6332c27dc.js",
         "/pwatest/polyfills-es5.4e06eb653a3c8a2d581f.js",
         "/pwatest/runtime-es2015.858f8dd898b75fe86926.js",
         "/pwatest/runtime-es5.741402d1d47331ce975c.js",
-        "/pwatest/styles.3ff695c00d717f2d2a11.css"
+        "/pwatest/styles.f3496e20de9565869bf5.css"
       ],
       "patterns": []
     },
@@ -59,14 +59,14 @@
     "/pwatest/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/pwatest/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/pwatest/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/pwatest/index.html": "457d78614b2a5e4c133c67bce1f606b311a66323",
-    "/pwatest/main-es2015.fa4b5abdbcd1059cbb8c.js": "5995349bfdf2a339090f8d17413baebc6f1af55d",
-    "/pwatest/main-es5.761c996eaf2b84260cbf.js": "f9cea07307304f530e417809c30a790545c27fc5",
+    "/pwatest/index.html": "ca34268ee15551995f1d6e42f0bc2b18b467d0e0",
+    "/pwatest/main-es2015.56cc94471c3382b1ecec.js": "ad0866c4da33dd7ef6ff9b39ba68e484a3dfe18b",
+    "/pwatest/main-es5.d8a0fc8374125eb2a65d.js": "d7597305a4f24794e4ce2e53adb769789d7f2ed5",
     "/pwatest/polyfills-es2015.27661dfa98f6332c27dc.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
     "/pwatest/polyfills-es5.4e06eb653a3c8a2d581f.js": "f84a71ef6c7a788b5fe701bf2405313d7766a66d",
     "/pwatest/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/pwatest/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/pwatest/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/pwatest/styles.f3496e20de9565869bf5.css": "8f42020fc2d56da9de5e6e707e7aae5d7c3dbf81"
   },
   "navigationUrls": [
     {
