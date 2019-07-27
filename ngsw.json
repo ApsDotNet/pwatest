@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "timestamp": 1564203530331,
+  "index": "/pwatest/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/pwatest/favicon.ico",
+        "/pwatest/index.html",
+        "/pwatest/main-es2015.fa4b5abdbcd1059cbb8c.js",
+        "/pwatest/main-es5.761c996eaf2b84260cbf.js",
+        "/pwatest/polyfills-es2015.27661dfa98f6332c27dc.js",
+        "/pwatest/polyfills-es5.4e06eb653a3c8a2d581f.js",
+        "/pwatest/runtime-es2015.858f8dd898b75fe86926.js",
+        "/pwatest/runtime-es5.741402d1d47331ce975c.js",
+        "/pwatest/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/pwatest/assets/icons/icon-128x128.png",
+        "/pwatest/assets/icons/icon-144x144.png",
+        "/pwatest/assets/icons/icon-152x152.png",
+        "/pwatest/assets/icons/icon-192x192.png",
+        "/pwatest/assets/icons/icon-384x384.png",
+        "/pwatest/assets/icons/icon-512x512.png",
+        "/pwatest/assets/icons/icon-72x72.png",
+        "/pwatest/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "api-performance",
+      "patterns": [
+        "https:\\/\\/api\\.chucknorris\\.io\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 259200000,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/pwatest/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/pwatest/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/pwatest/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/pwatest/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/pwatest/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/pwatest/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/pwatest/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/pwatest/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/pwatest/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/pwatest/index.html": "457d78614b2a5e4c133c67bce1f606b311a66323",
+    "/pwatest/main-es2015.fa4b5abdbcd1059cbb8c.js": "5995349bfdf2a339090f8d17413baebc6f1af55d",
+    "/pwatest/main-es5.761c996eaf2b84260cbf.js": "f9cea07307304f530e417809c30a790545c27fc5",
+    "/pwatest/polyfills-es2015.27661dfa98f6332c27dc.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
+    "/pwatest/polyfills-es5.4e06eb653a3c8a2d581f.js": "f84a71ef6c7a788b5fe701bf2405313d7766a66d",
+    "/pwatest/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/pwatest/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/pwatest/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
